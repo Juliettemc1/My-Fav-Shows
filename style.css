@@ -2,15 +2,33 @@ body {
 	background-color: #EFF1FF;
 }
 h1 {
-	color: #000000;
+	color: #FFFFFF;
 }
 h1 {
-	color: black;
+	color: white;
 	text-align: center;
 	font-family: "Montserrat", serif;
-	font-size: 40px;
+	font-size: 80px;
 }
 
+h4 {
+	color: white;
+	text-align: center;
+	font-family: "Montserrat", serif;
+	font-size: 15px;
+}
+h3 {
+	color: white;
+	text-align: center;
+	font-family: "Montserrat", serif;
+	font-size: 15px;
+}
+h2 {
+	color: white;
+	text-align: center;
+	font-family: "Montserrat", serif;
+	font-size: 15px;
+}
 p, li, a {
 	font-family: "Montserrat", san-serif;
 }
@@ -18,7 +36,7 @@ a:hover {
   color: blue;
 }
 .topnav {
-   background-color: #333333;
+   background-color: #252A64;
    overflow: hidden;
 }
 
@@ -37,7 +55,7 @@ a:hover {
 }
 
 .topnav a.active {
-   background-color: #04AA6D;
+   background-color: #252A64;
    color: white;
 }
 
@@ -49,3 +67,32 @@ a:hover {
 	padding: 60px 0px;
 }
 
+#photoGG {
+	background: url("GG2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+	padding: 60px 0px;
+}
+#photoLaM {
+	background: url("LivandMaddie3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+	padding: 60px 0px;
+}
+#photoNG {
+	background: url("New-Girl.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+	padding: 60px 0px;
+}
+}
+#photoTV {
+	background: url("tvwatching.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;	
+	padding: 20px 0px;
+}
